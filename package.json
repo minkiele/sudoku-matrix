@@ -1,0 +1,21 @@
+{
+  "name": "sudoku-matrix",
+  "version": "1.0.0",
+  "description": "A simple sudoku matrix solving",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "Sudoku",
+    "Matrix",
+    "Solving"
+  ],
+  "author": "Michele Montagner <michele.montagner@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.6.0",
+    "@typescript-eslint/parser": "^4.6.0",
+    "typescript": "^4.0.5"
+  }
+}
