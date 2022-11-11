@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "es2015",
+        "esModuleInterop": false,
+        "allowSyntheticDefaultImports": true,
+        "newLine": "lf",
+        "moduleResolution": "node"
+    },
+    "include": [ "src", "node_modules/@types" ],
+    "exclude": [ "node_modules/tsutils" ]
+}
