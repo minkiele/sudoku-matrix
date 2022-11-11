@@ -29,5 +29,6 @@
   },
   "sideEffects": [
     "./src/**/*.ts"
-  ]
+  ],
+  "typings": "./typings/index.d.ts"
 }
