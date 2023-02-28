@@ -1,5 +1,5 @@
 {
-  "name": "minkiele-sudoku-matrix",
+  "name": "sudoku-matrix",
   "version": "1.0.1",
   "description": "A simple sudoku matrix solving",
   "main": "lib/main.js",
