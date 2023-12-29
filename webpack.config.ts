@@ -6,7 +6,7 @@ const config: Configuration = {
     output: {
         path: `${__dirname}/lib`,
         filename: '[name].js',
-        libraryTarget: 'umd'
+        libraryTarget: 'commonjs2'
     },
     module: {
         rules: [{
